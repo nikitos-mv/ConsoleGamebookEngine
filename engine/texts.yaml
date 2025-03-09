@@ -1,0 +1,5 @@
+enter_valid_way: "Enter a valid way."
+game_over: "[Game over]"
+new_achievement: "[New achievement: {0}]"
+no_ways_available: "[No ways available]"
+your_way_prompt: "Your way: "

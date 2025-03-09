@@ -1,0 +1,18 @@
+# MOVES
+
+move_1: Entry move
+move_2: Next move
+move_3: Public move
+move_4: Secret move
+
+# WAYS
+
+way_1: Start
+way_2: Start with secret
+way_3: Public way
+way_4: Secret way
+
+# ACHIEVEMENTS
+
+achievement_first: First achievement
+achievement_second: Second achievement
